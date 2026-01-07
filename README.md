@@ -1,4 +1,4 @@
-Banking Database System (For Understanding Consepts of Python)
+Banking Database System (For Understanding Concepts of Python)
 
 	This is a terminal-based banking system project written in Python. It allows users to register, log in, and perform basic banking operations. All user data is saved in a local SQLite database.
 
